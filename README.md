@@ -1,7 +1,7 @@
 # Telio EDU Drone Egg Launch Challenge Solution
 
 ## Challenge Overview
-This repository contains the code and documentation for the Telio EDU Drone Egg Launch Challenge, held by the Department of Electrical and Computer Engineering at George Washington University in April 2025. Our solution achieved **1st Place** by successfully completing **Stage 1** and winning the competition. We are now working on automating **Stage 2** and **Stage 3** as a side project to further refine our mission script and hardware.
+This repository contains the code and documentation for the Telio EDU Drone Egg Launch Challenge, held by the Department of Electrical and Computer Engineering at George Washington University in April 2025. My solution achieved **1st Place** by successfully completing **Stage 1** and winning the competition. I am now working on automating **Stage 2** and **Stage 3** as a side project to further refine our mission script and hardware.
 
 **Location:** North Garden, 5th Floor North Wing Laboratories  
 **Date:** Friday, April 18, 2025 at 3:00 PM
