@@ -12,7 +12,7 @@ This repository contains the code and documentation for the Telio EDU Drone Egg 
 <img width="553" alt="image" src="https://github.com/user-attachments/assets/88714e64-5ec4-44a9-8fa3-caa9ebee9f3f" />
 
 ### Video Link of my Drone Flying:
-https://youtu.be/zy-T49WV0xI
+[https://youtu.be/zy-T49WV0xI](https://www.youtube.com/watch?v=Ft-ny3ui5aY)
 
 ### Scoring Breakdown
 
